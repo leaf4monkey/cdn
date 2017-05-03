@@ -1,6 +1,6 @@
 Package.describe({
   name: 'leaf4monkey:cdn',
-  version: '1.0.1',
+  version: '1.0.2',
   // Brief, one-line summary of the package.
   summary: 'serve meteor bundled js and css from your CDN.',
   // URL to the Git repository containing the source code for this package.

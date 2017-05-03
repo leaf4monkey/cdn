@@ -3,9 +3,7 @@
  * @fileoverview 请填写简要的文件说明.
  * @author joc (Chen Wen)
  */
-import {WebAppInternals} from 'meteor/webapp';
-
-let {CDN_URL} = process.env;
+var CDN_URL = process.env.CDN_URL;
 
 if (CDN_URL) {
     console.log({CDN_URL});
